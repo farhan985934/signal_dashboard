@@ -1,0 +1,6 @@
+[
+  {"time": "10:00", "price": 107655.49, "rsi": 39.31, "ema": 107757.90, "macd": -23.30, "signal": "No Clear Signal"},
+  {"time": "10:01", "price": 107642.80, "rsi": 38.33, "ema": 107716.37, "macd": -33.98, "signal": "No Clear Signal"},
+  {"time": "10:02", "price": 107605.55, "rsi": 31.96, "ema": 107689.23, "macd": -40.53, "signal": "No Clear Signal"},
+  {"time": "10:03", "price": 107652.79, "rsi": 36.31, "ema": 107678.87, "macd": -42.78, "signal": "No Clear Signal"}
+]
